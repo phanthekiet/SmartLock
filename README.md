@@ -23,3 +23,6 @@ Hệ thống khóa cửa thông minh (Smart Lock) ứng dụng IoT, cung cấp c
 ## 📂 Cấu trúc mã nguồn
 * `SmartLock.ino`: Chứa logic xử lý chính của hệ thống, quản lý ngắt, đọc dữ liệu cảm biến và điều khiển Servo.
 * `Smartlock_blynk.ino`: Xử lý giao tiếp mạng và đồng bộ dữ liệu với nền tảng Blynk.
+
+## 🎥 Video Demo Dự Án
+[![Smart Lock Demo](https://img.youtube.com/vi/IPrLoBeEPhU&t=60s/0.jpg)](https://www.youtube.com/watch?v=IPrLoBeEPhU&t=60s)
